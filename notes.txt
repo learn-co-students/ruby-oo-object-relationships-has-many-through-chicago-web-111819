@@ -1,0 +1,13 @@
+
+Come back to this lab for additinal work on the following suggestions:
+~ ~ ~ ~ ~ ~ ============ ~ ~ ~ ~ ~ ~
+
+Below you'll find all the code for the Customer class, including a few new methods. Think about expanding on the Customer and Waiter classes and about what other methods might be possible using the has-many-through relationship. For starters, try some of the following:
+
+a) A waiter's most frequent customer
+b) The meal of a waiter's worst tipping customer
+c) The average tips for the most experienced waiter and the average tips for the least experienced waiter
+
+# End
+
+
